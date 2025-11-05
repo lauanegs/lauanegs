@@ -19,7 +19,7 @@
 
   <p align="center">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=C77DFF&center=true&vCenter=true&width=435&lines=Transformando+experiencias+em+solucoes;Desenvolvimento+web+fullstack;Design+centrado+no+usuario"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=C77DFF&center=true&vCenter=true&width=435&lines=Desenvolvimento+web+fullstack;Design+centrado+no+usuario"
     />
   </p>
 
@@ -40,7 +40,7 @@
 
 ---
 
-# 📌 Projetos em Destaque  
+# Projetos em Destaque  
 > Alguns dos principais projetos desenvolvidos em contexto acadêmico e profissional.
 
 ---
@@ -54,11 +54,11 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=danilo-oliv&repo=histopat_backend&show_description=false" />
 </a>
 
-Atlas histológico digital voltado para alunos do curso de Medicina, oferecendo acesso claro a lâminas e conteúdos correlatos.
+Atlas histológico digital desenvolvido para apoiar estudantes de Medicina na análise de lâminas e conteúdos correlatos. A solução oferece navegação intuitiva, organização visual eficiente e acesso centralizado a materiais de estudo.
 
-- **Frontend:** React + Next.js
-- **Backend:** C#
-- **Banco de Dados:** SQL Server
+- **Frontend:** React + Next.js  
+- **Backend:** C#  
+- **Banco de Dados:** SQL Server  
 
 ---
 
@@ -71,11 +71,11 @@ Atlas histológico digital voltado para alunos do curso de Medicina, oferecendo 
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=lauanegs&repo=SANVI_API&show_description=false" />
 </a>
 
-Sistema de gestão clínica: prontuário, agendamento, cadastro e financeiro. Estruturado para escalabilidade e organização de fluxos.
+Sistema de gestão clínica projetado para otimizar processos administrativos e assistenciais, incluindo prontuário eletrônico, agendamento, gerenciamento de pacientes e controle financeiro. Construído com foco em escalabilidade, organização e experiência do usuário.
 
-- **Frontend Desktop:** Tauri + React
-- **API:** Java + Spring Boot
-- **Banco de Dados:** PostgreSQL
+- **Frontend Desktop:** Tauri + React  
+- **API:** Java + Spring Boot  
+- **Banco de Dados:** PostgreSQL  
 
 ---
 
@@ -88,11 +88,11 @@ Sistema de gestão clínica: prontuário, agendamento, cadastro e financeiro. Es
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=danilo-oliv&repo=geneguarda&show_description=false" />
 </a>
 
-Aplicativo mobile para rastreabilidade de estoque genético bovino com precisão e confiabilidade.
+Aplicação mobile destinada à rastreabilidade de estoque genético bovino, fornecendo maior controle, precisão e segurança na gestão de dados. A solução auxilia na administração eficiente e acompanhamento histórico dos materiais biológicos.
 
-- **Frontend:** React Native
-- **Backend:** PHP + Laravel
-- **Banco de Dados:** MySQL
+- **Frontend:** React Native  
+- **Backend:** PHP + Laravel  
+- **Banco de Dados:** MySQL  
 
 ---
 
@@ -101,10 +101,10 @@ Aplicativo mobile para rastreabilidade de estoque genético bovino com precisão
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=lauanegs&repo=ArcaEmbrioes&show_description=false" />
 </a>
 
-Website institucional com foco em clareza, identidade visual e experiência do usuário.
+Website institucional desenvolvido para aprimorar a presença digital da empresa, reforçando identidade visual, clareza na comunicação e foco em uma experiência do usuário moderna e acessível.
 
-- **UI Design:** Figma
-- **Frontend:** React
+- **UI Design:** Figma  
+- **Frontend:** React  
 
 ---
 
@@ -113,11 +113,11 @@ Website institucional com foco em clareza, identidade visual e experiência do u
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=laysgabrielle&repo=biblia-em-ordem&show_description=false" />
 </a>
 
-Aplicativo para organização das atividades de Escola Dominical, utilizando serviços cloud.
+Aplicativo voltado à organização de atividades da Escola Dominical, permitindo gestão estruturada de conteúdos e alunos. A plataforma utiliza serviços em nuvem para garantir agilidade e confiabilidade no armazenamento de informações.
 
-- **Frontend:** React Native
-- **Backend:** Firebase
-- **Banco de Dados:** Firestore
+- **Frontend:** React Native  
+- **Backend:** Firebase  
+- **Banco de Dados:** Firestore  
 
 ---
 
