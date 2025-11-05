@@ -36,10 +36,10 @@
 ## 🧬 HistoPat
 
 <a href="https://github.com/waveformer10/HistoPat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waveformer10&repo=HistoPat&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waveformer10&repo=HistoPat&theme=default&show_description=false" />
 </a>
 <a href="https://github.com/danilo-oliv/histopat_backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danilo-oliv&repo=histopat_backend&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danilo-oliv&repo=histopat_backend&theme=default&show_description=false" />
 </a>
 
 O HistoPat consiste em um atlas histológico digital voltado aos alunos do curso de Medicina da UNIPAM, incluindo site e painel administrativo.  
@@ -54,10 +54,10 @@ A solução foi planejada para otimizar o acesso às lâminas e informações co
 ## 🩺 SANVI
 
 <a href="https://github.com/lauanegs/SANVI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lauanegs&repo=SANVI&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lauanegs&repo=SANVI&theme=default&show_description=false" />
 </a>
 <a href="https://github.com/lauanegs/SANVI_API">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lauanegs&repo=SANVI_API&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lauanegs&repo=SANVI_API&theme=default&show_description=false" />
 </a>
 
 Sistema destinado à gestão de clínicas de pequeno e médio porte, abrangendo cadastro de pacientes, tratamentos vinculados ao prontuário, agenda e controle financeiro.  
@@ -72,10 +72,10 @@ A aplicação foi desenvolvida priorizando escalabilidade e organização de flu
 ## 🧫 GeneGuarda
 
 <a href="https://github.com/gabnhac/app-arca-embrioes">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabnhac&repo=app-arca-embrioes&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabnhac&repo=app-arca-embrioes&theme=default&show_description=false" />
 </a>
 <a href="https://github.com/danilo-oliv/geneguarda">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danilo-oliv&repo=geneguarda&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danilo-oliv&repo=geneguarda&theme=default&show_description=false" />
 </a>
 
 Aplicativo mobile desenvolvido para monitoramento e controle de estoque genético bovino, garantindo rastreabilidade e precisão dos dados.
@@ -89,7 +89,7 @@ Aplicativo mobile desenvolvido para monitoramento e controle de estoque genétic
 ## 🐮 Arca Embriões
 
 <a href="https://github.com/lauanegs/ArcaEmbrioes">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lauanegs&repo=ArcaEmbrioes&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lauanegs&repo=ArcaEmbrioes&theme=default&show_description=false" />
 </a>
 
 Website institucional voltado à apresentação da empresa Arca Embriões, especializada em fertilização in vitro bovina.  
@@ -103,7 +103,7 @@ O foco principal envolve identidade visual precisa, navegação clara e apresent
 ## 📖 Blidem
 
 <a href="https://github.com/laysgabrielle/biblia-em-ordem">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=laysgabrielle&repo=biblia-em-ordem&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=laysgabrielle&repo=biblia-em-ordem&theme=default&show_description=false" />
 </a>
 
 Aplicativo destinado à organização e apoio às atividades de Escola Dominical da Igreja Evangélica Assembleia de Deus, utilizando infraestrutura moderna baseada em serviços cloud.
