@@ -1,12 +1,14 @@
-<!-- Banner ou apresentação -->
-<h1 align="center">✨ Olá! Eu sou <strong>Lauane Gonzaga e Silva</strong> ✨</h1>
+<!-- GRADIENT BACKGROUND -->
+<div style="
+  background: linear-gradient(135deg, #1a002b, #000000);
+  padding: 20px;
+  border-radius: 12px;
+">
 
-<p align="center">
+<h1 align="center" style="color: #c77dff;"><strong>Lauane Gonzaga e Silva</strong></h1>
+
+<p align="center" style="color: #ffffff;">
   <strong>Desenvolvedora Web | UX/UI Designer</strong>
-</p>
-
-<p align="center">
-  <i>Transformo ideias em experiências digitais!</i>
 </p>
 
 <br />
@@ -26,7 +28,7 @@
 
 ---
 
-# 🚀 Projetos
+# Projetos
 
 > Durante meus estudos acadêmicos e projetos pessoais, desenvolvi aplicações que colocam em prática os conhecimentos adquiridos ao longo do tempo. Aqui estão alguns deles:
 
@@ -41,10 +43,10 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=danilo-oliv&repo=histopat_backend&theme=default" />
 </a>
 
-✨ **Atlas histológico** das lâminas do curso de Medicina da Unipam.  
-- Frontend: **React + Next.js**
-- Backend: **C#**
-- Banco: **SQL Server**  
+Atlas histológico das lâminas do curso de Medicina da Unipam.  
+- Frontend: React + Next.js  
+- Backend: C#  
+- Banco: SQL Server  
 
 ---
 
@@ -57,16 +59,10 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=lauanegs&repo=SANVI_API&theme=default" />
 </a>
 
-Sistema completo para gestão de clínicas  
-- Cadastro de pacientes  
-- Agenda  
-- Prontuário  
-- Controle financeiro  
-
-✅  
-- Frontend: **React + Tauri**  
-- API: **Java + Spring Boot**  
-- Banco: **PostgreSQL**  
+Software para gestão de clínicas de pequeno e médio porte.  
+- Frontend: React + Tauri  
+- API: Java + Spring Boot  
+- Banco: PostgreSQL  
 
 ---
 
@@ -79,10 +75,10 @@ Sistema completo para gestão de clínicas
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=danilo-oliv&repo=geneguarda&theme=default" />
 </a>
 
-Aplicativo mobile para monitoramento de estoque genético para clientes da empresa **Arca Embriões**  
-- Frontend: **React Native**
-- Backend: **PHP + Laravel**
-- Banco: **MySQL**
+Aplicativo mobile para monitoramento de estoque genético.  
+- Frontend: React Native  
+- Backend: PHP + Laravel  
+- Banco: MySQL  
 
 ---
 
@@ -92,10 +88,9 @@ Aplicativo mobile para monitoramento de estoque genético para clientes da empre
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=lauanegs&repo=ArcaEmbrioes&theme=default" />
 </a>
 
-Site expositivo para empresa especializada em fertilização in vitro de bovinos.  
-✅  
-- UI: **Figma**
-- Desenvolvimento: **React**
+Site expositivo desenvolvido para empresa especializada em fertilização in vitro de bovinos.  
+- UI: Figma  
+- Desenvolvimento: React  
 
 ---
 
@@ -105,30 +100,29 @@ Site expositivo para empresa especializada em fertilização in vitro de bovinos
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=laysgabrielle&repo=biblia-em-ordem&theme=default" />
 </a>
 
-Aplicativo para auxiliar na organização da Escola Dominical.  
-✅  
-- Frontend: **React Native**
-- Backend: **Firebase**
-- Banco: **Firestore**  
+App para auxiliar na organização da Escola Dominical.  
+- Frontend: React Native  
+- Backend: Firebase  
+- Banco: Firestore  
 
 ---
 
 # 🛠 Tecnologias & Ferramentas
 
-✅ **Linguagens & Frameworks**  
+Linguagens & Frameworks  
 - React · Next.js · React Native  
 - Java · Spring Boot  
 - PHP · Laravel  
 - C#  
 - Node.js  
 
-✅ **Bancos de Dados**  
+Bancos de Dados  
 - PostgreSQL  
 - SQL Server  
 - MySQL  
 - Firebase / Firestore  
 
-✅ **Outros**  
+Outros  
 - UX/UI · Figma  
 - Git & GitHub  
 
@@ -136,13 +130,8 @@ Aplicativo para auxiliar na organização da Escola Dominical.
 
 # 📫 Contato
 
-📧 Email: **lauanegonzagasilva**  
-🔗 LinkedIn: **https://www.linkedin.com/in/lauane-gonzaga-e-silva/**  
+[Email (clicável)](mailto:lauanegonzagasilva@gmail.com)  
+[LinkedIn (clicável)](https://www.linkedin.com/in/lauane-gonzaga-e-silva/)  
 
----
 
-<div align="center">
-  <br />
-  <i>Obrigada pela visita! ✨</i>
-  <br /><br />
 </div>
