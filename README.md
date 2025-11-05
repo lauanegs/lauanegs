@@ -2,7 +2,7 @@
 <div style="
   padding: 32px;
   border-radius: 12px;
-  background: linear-gradient(135deg, #03001e, #7303c0, #c77dff);
+  background: linear-gradient(135deg, #1a002b, #3d0066, #6b11c9, #c77dff);
   background-size: 300% 300%;
   animation: gradientAnimation 12s ease infinite;
 ">
@@ -15,22 +15,22 @@
 }
 </style>
 
-<h1 align="center" style="color: #ffffff; animation: fadeIn 1.8s ease;">
+<h1 align="center" style="color: #ffffff;">
   <strong>Lauane Gonzaga e Silva</strong>
 </h1>
 
-<p align="center" style="color: #ffffff; animation: fadeIn 2.2s ease;">
-  <strong>Desenvolvedora Web · UX/UI Designer</strong>
+<p align="center" style="color: #ffffff;">
+  <strong>Desenvolvedora Web | UX/UI Designer</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=C77DFF&center=true&vCenter=true&width=435&lines=Transformando+experi%C3%AAncias+em+solu%C3%A7%C3%B5es;Desenvolvimento+web+fullstack;Design+centrado+no+usu%C3%A1rio" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=C77DFF&center=true&vCenter=true&width=435&lines=Transformando+experiencias+em+solucoes;Desenvolvimento+web+fullstack;Design+centrado+no+usuario" />
 </p>
 
 <br />
 
 <!-- Badges -->
-<p align="center" style="animation: fadeIn 2.8s ease;">
+<p align="center">
   <img src="https://img.shields.io/badge/-React-61dafb?logo=react&logoColor=000&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=fff&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript&logoColor=fff&style=for-the-badge" />
@@ -46,21 +46,20 @@
 
 # 📌 Projetos em Destaque
 
-> A seguir, apresento alguns projetos desenvolvidos em contexto acadêmico e profissional, refletindo aplicabilidade prática, domínio de tecnologias e foco em experiência do usuário.
+> Alguns dos principais projetos desenvolvidos em contexto acadêmico e profissional.
 
 ---
 
 ## 🧬 HistoPat
 
 <a href="https://github.com/waveformer10/HistoPat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waveformer10&repo=HistoPat&theme=tokyonight&show_description=false" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waveformer10&repo=HistoPat&show_description=false" />
 </a>
 <a href="https://github.com/danilo-oliv/histopat_backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danilo-oliv&repo=histopat_backend&theme=tokyonight&show_description=false" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danilo-oliv&repo=histopat_backend&show_description=false" />
 </a>
 
-Atlas histológico digital voltado para estudantes de Medicina da UNIPAM, com plataforma web e painel administrativo.  
-O projeto foi estruturado visando acessibilidade, usabilidade e organização eficiente do conteúdo acadêmico.
+Atlas histológico digital voltado para alunos do curso de Medicina, oferecendo acesso claro a lâminas e conteúdos correlatos.
 
 - **Frontend:** React + Next.js  
 - **Backend:** C#  
@@ -71,14 +70,13 @@ O projeto foi estruturado visando acessibilidade, usabilidade e organização ef
 ## 🩺 SANVI
 
 <a href="https://github.com/lauanegs/SANVI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lauanegs&repo=SANVI&theme=tokyonight&show_description=false" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lauanegs&repo=SANVI&show_description=false" />
 </a>
 <a href="https://github.com/lauanegs/SANVI_API">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lauanegs&repo=SANVI_API&theme=tokyonight&show_description=false" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lauanegs&repo=SANVI_API&show_description=false" />
 </a>
 
-Sistema de gestão clínica com módulos para cadastro de pacientes, prontuários, agenda médica e administração financeira.  
-A solução prioriza escalabilidade, facilidade de manutenção e fluxo de uso simplificado.
+Sistema de gestão clínica: prontuário, agendamento, cadastro e financeiro. Estruturado para escalabilidade e organização de fluxos.
 
 - **Frontend Desktop:** Tauri + React  
 - **API:** Java + Spring Boot  
@@ -89,13 +87,13 @@ A solução prioriza escalabilidade, facilidade de manutenção e fluxo de uso s
 ## 🧫 GeneGuarda
 
 <a href="https://github.com/gabnhac/app-arca-embrioes">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabnhac&repo=app-arca-embrioes&theme=tokyonight&show_description=false" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabnhac&repo=app-arca-embrioes&show_description=false" />
 </a>
 <a href="https://github.com/danilo-oliv/geneguarda">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danilo-oliv&repo=geneguarda&theme=tokyonight&show_description=false" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danilo-oliv&repo=geneguarda&show_description=false" />
 </a>
 
-Aplicativo mobile para monitoramento e controle de estoque genético bovino, assegurando rastreabilidade e integridade das informações.
+Aplicativo mobile para rastreabilidade de estoque genético bovino com precisão e confiabilidade.
 
 - **Frontend:** React Native  
 - **Backend:** PHP + Laravel  
@@ -106,11 +104,10 @@ Aplicativo mobile para monitoramento e controle de estoque genético bovino, ass
 ## 🐮 Arca Embriões
 
 <a href="https://github.com/lauanegs/ArcaEmbrioes">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lauanegs&repo=ArcaEmbrioes&theme=tokyonight&show_description=false" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lauanegs&repo=ArcaEmbrioes&show_description=false" />
 </a>
 
-Site institucional focado na apresentação de serviços especializados em fertilização in vitro bovina.  
-Priorização de clareza, consistência visual e navegação objetiva.
+Website institucional com foco em clareza, identidade visual e experiência do usuário.
 
 - **UI Design:** Figma  
 - **Frontend:** React  
@@ -120,10 +117,10 @@ Priorização de clareza, consistência visual e navegação objetiva.
 ## 📖 Blidem
 
 <a href="https://github.com/laysgabrielle/biblia-em-ordem">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=laysgabrielle&repo=biblia-em-ordem&theme=tokyonight&show_description=false" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=laysgabrielle&repo=biblia-em-ordem&show_description=false" />
 </a>
 
-Aplicação desenvolvida para auxiliar a organização das atividades de Escola Dominical, com serviços integrados em nuvem.
+Aplicativo para organização das atividades de Escola Dominical, utilizando serviços cloud.
 
 - **Frontend:** React Native  
 - **Backend:** Firebase  
@@ -131,7 +128,7 @@ Aplicação desenvolvida para auxiliar a organização das atividades de Escola 
 
 ---
 
-# ⚙️ Tecnologias & Ferramentas
+# ⚙️ Tecnologias
 
 ### Linguagens & Frameworks
 - React · Next.js · React Native  
@@ -139,7 +136,6 @@ Aplicação desenvolvida para auxiliar a organização das atividades de Escola 
 - PHP · Laravel  
 - C#  
 - TypeScript  
-- Node.js  
 
 ### Bancos de Dados
 - PostgreSQL · SQL Server · MySQL · Firestore  
