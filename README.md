@@ -121,7 +121,7 @@ Aplicativo voltado à organização de atividades da Escola Dominical, permitind
 
 ---
 
-# ⚙️ Tecnologias
+# Tecnologias
 
 ### Linguagens & Frameworks
 - React · Next.js · React Native
@@ -139,7 +139,7 @@ Aplicativo voltado à organização de atividades da Escola Dominical, permitind
 
 ---
 
-# 📬 Contato
+# Contato
 
 📩 **Email:**  
 <a href="mailto:lauanegonzagasilva@gmail.com" style="color:#c77dff;">
