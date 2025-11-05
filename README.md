@@ -1,132 +1,152 @@
 <!-- GRADIENT BACKGROUND -->
-<div style="
-  background: linear-gradient(135deg, #4b0082, #8a2be2);
-  padding: 20px;
-  border-radius: 12px;
-">
+<div
+  style="
+    padding: 32px;
+    border-radius: 12px;
+    background: linear-gradient(135deg, #1a002b, #3d0066, #6b11c9, #c77dff);
+    background-size: 300% 300%;
+    animation: gradientAnimation 12s ease infinite;
+  "
+>
 
-<!-- TÍTULO -->
-<h1 align="center" style="color: #ffffff;">Olá! Eu sou <strong>Seu Nome</strong> 💜</h1>
+  <h1 align="center" style="color: #ffffff;">
+    <strong>Lauane Gonzaga e Silva</strong>
+  </h1>
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=C77DFF&center=true&vCenter=true&width=600&lines=✨+Transformando+experiências+em+soluções+🚀;💻+Desenvolvimento+Web+Fullstack;🎨+Design+centrado+no+usuário" 
-  />
-</p>
+  <p align="center" style="color: #ffffff;">
+    <strong>Desenvolvedora Web | UX/UI Designer</strong>
+  </p>
 
----
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=C77DFF&center=true&vCenter=true&width=600&lines=✨+Transformando+experi%C3%AAncias+em+solu%C3%A7%C3%B5es+🚀;💻+Desenvolvimento+Web+Fullstack;🎨+Design+centrado+no+usu%C3%A1rio" />
+  </p>
 
-## 🚀 Sobre mim
+  <br />
 
-Sou uma pessoa apaixonada por tecnologia, design e criação de soluções que transformam experiências em resultados reais.  
-Trabalho com foco em código limpo, boas práticas e sempre agregando estética ao funcionamento.  
-
----
-
-## 🛠 Tecnologias
-
-<div style="display: flex; justify-content: center;">
-  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![Next JS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-377cc8?style=for-the-badge&logo=typescript&logoColor=white)
-![Node](https://img.shields.io/badge/NodeJs-0ea44f?style=for-the-badge&logo=node.js&logoColor=white)
-
-</div>
-
----
-
-# 📁 Projetos
-
-> ✅ **Sem descrição nos cards — apenas título + estrela + gif**
-
-<br/>
-
-## 🎬 Destaques
-
-<table>
-<tr>
-
-<td align="center" width="33%">
-  <a href="https://github.com/usuario/projeto1">
-    <img src="https://media.giphy.com/media/26gsvEVu2CLuB8Gys/giphy.gif" width="200"/>
-    <br/>
-    <strong style="color: #fff;">Projeto 1</strong>
-    <br/>
-    ⭐⭐⭐⭐⭐
-  </a>
-</td>
-
-<td align="center" width="33%">
-  <a href="https://github.com/usuario/projeto2">
-    <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" width="200"/>
-    <br/>
-    <strong style="color: #fff;">Projeto 2</strong>
-    <br/>
-    ⭐⭐⭐⭐⭐
-  </a>
-</td>
-
-<td align="center" width="33%">
-  <a href="https://github.com/usuario/projeto3">
-    <img src="https://media.giphy.com/media/l3vRmWJ9Z7P8whPgk/giphy.gif" width="200"/>
-    <br/>
-    <strong style="color: #fff;">Projeto 3</strong>
-    <br/>
-    ⭐⭐⭐⭐⭐
-  </a>
-</td>
-
-</tr>
-</table>
-
-<br/>
-
----
-
-## 🌟 Outros projetos
-
-<table>
-<tr>
-
-<td align="center" width="33%">
-  <a href="https://github.com/usuario/projeto4">
-    <img src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" width="200"/>
-    <br/>
-    <strong style="color: #fff;">Projeto 4</strong>
-  </a>
-</td>
-
-<td align="center" width="33%">
-  <a href="https://github.com/usuario/projeto5">
-    <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200"/>
-    <br/>
-    <strong style="color: #fff;">Projeto 5</strong>
-  </a>
-</td>
-
-<td align="center" width="33%">
-  <a href="https://github.com/usuario/projeto6">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
-    <br/>
-    <strong style="color: #fff;">Projeto 6</strong>
-  </a>
-</td>
-
-</tr>
-</table>
-
----
-
-## 📫 Contato
-
-<p align="center">
-  <a href="mailto:seuemail@email.com">
-    📧 Email
-  </a> •
-  <a href="https://linkedin.com/in/seulinkedin">
-    🔗 LinkedIn
-  </a>
-</p>
+  <!-- Badges -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/-React-61dafb?logo=react&logoColor=000&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=fff&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript&logoColor=fff&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Java-ED1D25?logo=openjdk&logoColor=fff&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-C%23-512BD4?logo=csharp&logoColor=fff&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff&style=for-the-badge" />
+  </p>
 
 </div>
+
+---
+
+# 📌 Projetos em Destaque  
+> Alguns dos principais projetos desenvolvidos em contexto acadêmico e profissional.
+
+---
+
+## 🧬 HistoPat
+<a href="https://github.com/waveformer10/HistoPat">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waveformer10&repo=HistoPat&show_description=false" />
+</a>
+
+<a href="https://github.com/danilo-oliv/histopat_backend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danilo-oliv&repo=histopat_backend&show_description=false" />
+</a>
+
+Atlas histológico digital voltado para alunos do curso de Medicina, oferecendo acesso claro a lâminas e conteúdos correlatos.
+
+- **Frontend:** React + Next.js
+- **Backend:** C#
+- **Banco de Dados:** SQL Server
+
+---
+
+## 🩺 SANVI
+<a href="https://github.com/lauanegs/SANVI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lauanegs&repo=SANVI&show_description=false" />
+</a>
+
+<a href="https://github.com/lauanegs/SANVI_API">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lauanegs&repo=SANVI_API&show_description=false" />
+</a>
+
+Sistema de gestão clínica: prontuário, agendamento, cadastro e financeiro. Estruturado para escalabilidade e organização de fluxos.
+
+- **Frontend Desktop:** Tauri + React
+- **API:** Java + Spring Boot
+- **Banco de Dados:** PostgreSQL
+
+---
+
+## 🧫 GeneGuarda
+<a href="https://github.com/gabnhac/app-arca-embrioes">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabnhac&repo=app-arca-embrioes&show_description=false" />
+</a>
+
+<a href="https://github.com/danilo-oliv/geneguarda">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danilo-oliv&repo=geneguarda&show_description=false" />
+</a>
+
+Aplicativo mobile para rastreabilidade de estoque genético bovino com precisão e confiabilidade.
+
+- **Frontend:** React Native
+- **Backend:** PHP + Laravel
+- **Banco de Dados:** MySQL
+
+---
+
+## 🐮 Arca Embriões
+<a href="https://github.com/lauanegs/ArcaEmbrioes">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lauanegs&repo=ArcaEmbrioes&show_description=false" />
+</a>
+
+Website institucional com foco em clareza, identidade visual e experiência do usuário.
+
+- **UI Design:** Figma
+- **Frontend:** React
+
+---
+
+## 📖 Blidem
+<a href="https://github.com/laysgabrielle/biblia-em-ordem">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=laysgabrielle&repo=biblia-em-ordem&show_description=false" />
+</a>
+
+Aplicativo para organização das atividades de Escola Dominical, utilizando serviços cloud.
+
+- **Frontend:** React Native
+- **Backend:** Firebase
+- **Banco de Dados:** Firestore
+
+---
+
+# ⚙️ Tecnologias
+
+### Linguagens & Frameworks
+- React · Next.js · React Native
+- Java · Spring Boot
+- PHP · Laravel
+- C#
+- TypeScript
+
+### Bancos de Dados
+- PostgreSQL · SQL Server · MySQL · Firestore
+
+### Outros
+- UX/UI · Figma
+- Git & GitHub
+
+---
+
+# 📬 Contato
+
+📩 **Email:**  
+<a href="mailto:lauanegonzagasilva@gmail.com" style="color:#c77dff;">
+  lauanegonzagasilva@gmail.com
+</a>
+
+🔗 **LinkedIn:**  
+<a href="https://www.linkedin.com/in/lauane-gonzaga-e-silva/" style="color:#c77dff;">
+  linkedin.com/in/lauane-gonzaga-e-silva
+</a>
+
+---
