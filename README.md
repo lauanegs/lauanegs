@@ -24,44 +24,40 @@
 
 <br/>
 
-
 ---
 
 # 🚀 Projetos
 
 > Durante meus estudos acadêmicos e projetos pessoais, desenvolvi aplicações que colocam em prática os conhecimentos adquiridos ao longo do tempo. Aqui estão alguns deles:
 
-
 ---
 
 ## 🧬 HistoPat
 
 <a href="https://github.com/waveformer10/HistoPat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waveformer10&repo=HistoPat&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waveformer10&repo=HistoPat&theme=default" />
 </a>
 <a href="https://github.com/danilo-oliv/histopat_backend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danilo-oliv&repo=histopat_backend&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danilo-oliv&repo=histopat_backend&theme=default" />
 </a>
 
 ✨ **Atlas histológico** das lâminas do curso de Medicina da Unipam.  
 - Frontend: **React + Next.js**
 - Backend: **C#**
 - Banco: **SQL Server**  
-Inclui painel administrativo e visualização de lâminas.
-
 
 ---
 
 ## 🩺 SANVI
 
 <a href="https://github.com/lauanegs/SANVI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lauanegs&repo=SANVI&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lauanegs&repo=SANVI&theme=default" />
 </a>
 <a href="https://github.com/lauanegs/SANVI_API">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lauanegs&repo=SANVI_API&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lauanegs&repo=SANVI_API&theme=default" />
 </a>
 
-Sistema completo para gestão de clínicas.  
+Sistema completo para gestão de clínicas  
 - Cadastro de pacientes  
 - Agenda  
 - Prontuário  
@@ -72,44 +68,41 @@ Sistema completo para gestão de clínicas.
 - API: **Java + Spring Boot**  
 - Banco: **PostgreSQL**  
 
-
 ---
 
 ## 🧫 GeneGuarda
 
 <a href="https://github.com/gabnhac/app-arca-embrioes">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabnhac&repo=app-arca-embrioes&theme=gruvbox" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabnhac&repo=app-arca-embrioes&theme=default" />
 </a>
 <a href="https://github.com/danilo-oliv/geneguarda">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danilo-oliv&repo=geneguarda&theme=gruvbox" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danilo-oliv&repo=geneguarda&theme=default" />
 </a>
 
-Aplicativo mobile para monitoramento de estoque genético para clientes da empresa **Arca Embriões**.  
+Aplicativo mobile para monitoramento de estoque genético para clientes da empresa **Arca Embriões**  
 - Frontend: **React Native**
 - Backend: **PHP + Laravel**
-- Banco: **MySQL**  
-
+- Banco: **MySQL**
 
 ---
 
 ## 🐮 Arca Embriões
 
 <a href="https://github.com/lauanegs/ArcaEmbrioes">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lauanegs&repo=ArcaEmbrioes&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lauanegs&repo=ArcaEmbrioes&theme=default" />
 </a>
 
 Site expositivo para empresa especializada em fertilização in vitro de bovinos.  
 ✅  
 - UI: **Figma**
-- Desenvolvimento: **React**  
-
+- Desenvolvimento: **React**
 
 ---
 
 ## 📖 Blidem
 
 <a href="https://github.com/laysgabrielle/biblia-em-ordem">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=laysgabrielle&repo=biblia-em-ordem&theme=rose" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=laysgabrielle&repo=biblia-em-ordem&theme=default" />
 </a>
 
 Aplicativo para auxiliar na organização da Escola Dominical.  
@@ -118,36 +111,33 @@ Aplicativo para auxiliar na organização da Escola Dominical.
 - Backend: **Firebase**
 - Banco: **Firestore**  
 
-
 ---
 
 # 🛠 Tecnologias & Ferramentas
 
-✅ **Linguagens e Frameworks**
+✅ **Linguagens & Frameworks**  
 - React · Next.js · React Native  
 - Java · Spring Boot  
 - PHP · Laravel  
 - C#  
 - Node.js  
 
-✅ **Bancos de Dados**
-- PostgreSQL
-- SQL Server
-- MySQL
-- Firebase / Firestore
+✅ **Bancos de Dados**  
+- PostgreSQL  
+- SQL Server  
+- MySQL  
+- Firebase / Firestore  
 
-✅ **Outros**
+✅ **Outros**  
 - UX/UI · Figma  
 - Git & GitHub  
-
 
 ---
 
 # 📫 Contato
 
-📧 Email: **seu email aqui**  
-🔗 LinkedIn: **seu link aqui**  
-
+📧 Email: **lauanegonzagasilva**  
+🔗 LinkedIn: **https://www.linkedin.com/in/lauane-gonzaga-e-silva/**  
 
 ---
 
