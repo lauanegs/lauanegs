@@ -1,7 +1,6 @@
 <!-- GRADIENT BACKGROUND -->
 <div style="
-  background: linear-gradient(135deg, #1a002b, #000000);
-  padding: 20px;
+  padding: 32px;
   border-radius: 12px;
 ">
 
@@ -30,7 +29,7 @@
 
 # Projetos
 
-> Durante meus estudos acadêmicos e projetos pessoais, desenvolvi aplicações que colocam em prática os conhecimentos adquiridos ao longo do tempo. Aqui estão alguns deles:
+> Abaixo estão alguns dos principais projetos nos quais atuei, desenvolvidos durante experiências acadêmicas e profissionais, aplicando conhecimentos técnicos em diferentes contextos e arquiteturas.
 
 ---
 
@@ -43,10 +42,12 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=danilo-oliv&repo=histopat_backend&theme=default" />
 </a>
 
-Atlas histológico das lâminas do curso de Medicina da Unipam.  
-- Frontend: React + Next.js  
-- Backend: C#  
-- Banco: SQL Server  
+O HistoPat consiste em um atlas histológico digital voltado aos alunos do curso de Medicina da UNIPAM, incluindo site e painel administrativo.  
+A solução foi planejada para otimizar o acesso às lâminas e informações correlatas.
+
+- **Frontend:** React + Next.js  
+- **Backend:** C#  
+- **Banco de Dados:** SQL Server  
 
 ---
 
@@ -59,10 +60,12 @@ Atlas histológico das lâminas do curso de Medicina da Unipam.
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=lauanegs&repo=SANVI_API&theme=default" />
 </a>
 
-Software para gestão de clínicas de pequeno e médio porte.  
-- Frontend: React + Tauri  
-- API: Java + Spring Boot  
-- Banco: PostgreSQL  
+Sistema destinado à gestão de clínicas de pequeno e médio porte, abrangendo cadastro de pacientes, tratamentos vinculados ao prontuário, agenda e controle financeiro.  
+A aplicação foi desenvolvida priorizando escalabilidade e organização de fluxos.
+
+- **Frontend Desktop:** Tauri + React  
+- **API:** Java + Spring Boot  
+- **Banco de Dados:** PostgreSQL  
 
 ---
 
@@ -75,10 +78,11 @@ Software para gestão de clínicas de pequeno e médio porte.
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=danilo-oliv&repo=geneguarda&theme=default" />
 </a>
 
-Aplicativo mobile para monitoramento de estoque genético.  
-- Frontend: React Native  
-- Backend: PHP + Laravel  
-- Banco: MySQL  
+Aplicativo mobile desenvolvido para monitoramento e controle de estoque genético bovino, garantindo rastreabilidade e precisão dos dados.
+
+- **Frontend:** React Native  
+- **Backend:** PHP + Laravel  
+- **Banco de Dados:** MySQL  
 
 ---
 
@@ -88,9 +92,11 @@ Aplicativo mobile para monitoramento de estoque genético.
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=lauanegs&repo=ArcaEmbrioes&theme=default" />
 </a>
 
-Site expositivo desenvolvido para empresa especializada em fertilização in vitro de bovinos.  
-- UI: Figma  
-- Desenvolvimento: React  
+Website institucional voltado à apresentação da empresa Arca Embriões, especializada em fertilização in vitro bovina.  
+O foco principal envolve identidade visual precisa, navegação clara e apresentação objetiva dos serviços.
+
+- **UI Design:** Figma  
+- **Frontend:** React  
 
 ---
 
@@ -100,29 +106,31 @@ Site expositivo desenvolvido para empresa especializada em fertilização in vit
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=laysgabrielle&repo=biblia-em-ordem&theme=default" />
 </a>
 
-App para auxiliar na organização da Escola Dominical.  
-- Frontend: React Native  
-- Backend: Firebase  
-- Banco: Firestore  
+Aplicativo destinado à organização e apoio às atividades de Escola Dominical da Igreja Evangélica Assembleia de Deus, utilizando infraestrutura moderna baseada em serviços cloud.
+
+- **Frontend:** React Native  
+- **Backend:** Firebase  
+- **Banco de Dados:** Firestore  
 
 ---
 
 # 🛠 Tecnologias & Ferramentas
 
-Linguagens & Frameworks  
+### Linguagens & Frameworks
 - React · Next.js · React Native  
 - Java · Spring Boot  
 - PHP · Laravel  
 - C#  
+- TypeScript  
 - Node.js  
 
-Bancos de Dados  
+### Bancos de Dados
 - PostgreSQL  
 - SQL Server  
 - MySQL  
 - Firebase / Firestore  
 
-Outros  
+### Outros
 - UX/UI · Figma  
 - Git & GitHub  
 
@@ -130,8 +138,10 @@ Outros
 
 # 📫 Contato
 
-[Email (clicável)](mailto:lauanegonzagasilva@gmail.com)  
-[LinkedIn (clicável)](https://www.linkedin.com/in/lauane-gonzaga-e-silva/)  
+📩 **Email:**  
+<a href="mailto:lauanegonzagasilva@gmail.com" style="color: #c77dff;">Email (clicável)</a>
 
+🔗 **LinkedIn:**  
+<a href="https://www.linkedin.com/in/lauane-gonzaga-e-silva/" style="color: #c77dff;">LinkedIn (clicável)</a>
 
 </div>
