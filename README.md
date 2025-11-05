@@ -114,7 +114,7 @@ Aplicativo destinado à organização e apoio às atividades de Escola Dominical
 
 ---
 
-# 🛠 Tecnologias & Ferramentas
+# Tecnologias & Ferramentas
 
 ### Linguagens & Frameworks
 - React · Next.js · React Native  
