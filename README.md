@@ -18,7 +18,9 @@
   </p>
 
   <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=C77DFF&center=true&vCenter=true&width=600&lines=✨+Transformando+experi%C3%AAncias+em+solu%C3%A7%C3%B5es+🚀;💻+Desenvolvimento+Web+Fullstack;🎨+Design+centrado+no+usu%C3%A1rio" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=C77DFF&center=true&vCenter=true&width=435&lines=Transformando+experiencias+em+solucoes;Desenvolvimento+web+fullstack;Design+centrado+no+usuario"
+    />
   </p>
 
   <br />
