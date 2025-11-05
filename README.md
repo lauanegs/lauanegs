@@ -138,8 +138,8 @@ Aplicativo destinado à organização e apoio às atividades de Escola Dominical
 
 # 📫 Contato
 
-📩 **Email:**  <a href="mailto:lauanegonzagasilva@gmail.com" style="color: #c77dff;">Email</a>
+📩   <a href="mailto:lauanegonzagasilva@gmail.com" style="color: #c77dff;">Email</a>
 
-🔗 **LinkedIn:**  <a href="https://www.linkedin.com/in/lauane-gonzaga-e-silva/" style="color: #c77dff;">LinkedIn</a>
+🔗   <a href="https://www.linkedin.com/in/lauane-gonzaga-e-silva/" style="color: #c77dff;">LinkedIn</a>
 
 </div>
