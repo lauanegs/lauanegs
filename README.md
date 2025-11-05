@@ -136,7 +136,7 @@ Aplicativo destinado à organização e apoio às atividades de Escola Dominical
 
 ---
 
-# 📫 Contato
+# Contato
 
 📩   <a href="mailto:lauanegonzagasilva@gmail.com" style="color: #c77dff;">Email</a>
 
